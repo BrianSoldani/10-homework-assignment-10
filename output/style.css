@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color: rgb(15, 49, 94);
+    color: ivory;
+}
+
+.card-header {
+    background-color: rgb(41, 70, 109);
+    color: ivory;
+}
+
+.card-body {
+    background-color: lightgray;
+}
+
+.employee-card {
+    box-shadow: 10px 10px 5px grey;
+    margin: 10px;
+}
