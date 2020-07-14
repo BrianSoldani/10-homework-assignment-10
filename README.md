@@ -1,5 +1,66 @@
-# 10-homework-assignment-10
-Team profile page generator
+# Unit 10 - OOP: Template Engine - Employee Summary
+    
+## Description: 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This application uses OOP and node.js commands in terminal that takes in information about employees and generates an HTML page that displays summary cantact details for different employees. 
+    
+## Table of Contents: 
+
+* [License](#license)
+* [Installation](#installation)
+* [Tests](#tests)
+* [Usage](#usage)
+* [Technology Used](#technology-used)
+* [Contributing](#contributing)
+* [Questions](#questions)
+* [Link](#link)
+* [Image](#image)
+
+    
+## Installation: 
+
+To install the needed dependencies, please run the following command: npm i & npm install inquirer, npm install jest
+    
+## Usage: 
+    
+Special instructions for usage: 
+
+## Technology Used: 
+    
+Technology used in this application: OOP, ES6, Javascript, HTML5, CSS3
+    
+## License: 
+    
+This project is licensed under the MIT license.
+    
+## Contributing: 
+
+
+    
+## Tests: 
+
+Be sure to run the following test(s): npm run test
+    
+## Questions: 
+    
+If you have any questions, please reach out to [BrianSoldani](https://github.com/BrianSoldani) @ brians@gmail.com.
+
+## Link: 
+
+**To Repo:** https://github.com/BrianSoldani/10-homework-assignment-10
+
+## Image:
+
+![](assets/images/oop_employee_template.gif)
+
+
+
+
+
+
+
 
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
