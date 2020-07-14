@@ -53,12 +53,20 @@ If you have any questions, please reach out to [BrianSoldani](https://github.com
 
 ## Image:
 
-![](assets/images/oop_employee_template.gif)
+![](/images/oop_employee_template.gif)
 
 
 
+### Application HTML Output
+
+Five Team Members
+
+![](/images/oop_employee_template.gif)
 
 
+3 Team Members
+
+![](/images/oop_employee_template.gif)
 
 
 
