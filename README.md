@@ -61,12 +61,12 @@ If you have any questions, please reach out to [BrianSoldani](https://github.com
 
 Five Team Members
 
-![](/images/oop_employee_template.gif)
+![](/images/5team_members.jpg)
 
 
-3 Team Members
+Three Team Members
 
-![](/images/oop_employee_template.gif)
+![](/images/3team_members.jpg)
 
 
 
