@@ -1,3 +1,4 @@
+/* CSS Styling for the team.html file generated */
 .jumbotron {
     background-color: rgb(15, 49, 94);
     color: ivory;
@@ -15,4 +16,7 @@
 .employee-card {
     box-shadow: 10px 10px 5px grey;
     margin: 10px;
+}
+.card {
+    min-width: 250px;
 }

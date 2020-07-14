@@ -31,14 +31,14 @@ inquirer
         name: "email"
       },
       {
-        type: "number",
+        type: "input",
         message: "What is your manager's office number?",
         name: "officeNumber"
       }
     ])
     // Creates and stores instance of Manager to teamArray
     .then((response) => {
-      const manager = new Manager(response.name, response.id, response.email, Number(response.officeNumber));
+      const manager = new Manager(response.name, response.id, response.email, response.officeNumber);
       teamArray.push(manager);
       createEmployee();
     });
