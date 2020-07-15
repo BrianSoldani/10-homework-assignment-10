@@ -65,3 +65,8 @@ Five Team Members
 Three Team Members
 
 ![](/images/3team_members.jpg)
+
+
+### Approval
+
+![Brian Soldani Approved](https://img.shields.io/badge/Brian%20Soldani-Approved-brightgreen)
